@@ -1,0 +1,8 @@
+file_format: "1"
+id: rasgueado
+name: Rasgueado
+type: shield
+url: https://github.com/TBVanderley4545/zmk-rasgueado
+requires: [pro_micro]
+features:
+  - keys
