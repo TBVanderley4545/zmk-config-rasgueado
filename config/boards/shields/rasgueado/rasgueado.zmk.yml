@@ -2,7 +2,7 @@ file_format: "1"
 id: rasgueado
 name: Rasgueado
 type: shield
-url: https://github.com/TBVanderley4545/zmk-rasgueado
+url: https://github.com/TBVanderley4545/zmk-config-rasgueado
 requires: [pro_micro]
 features:
   - keys
